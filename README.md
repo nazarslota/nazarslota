@@ -1,4 +1,4 @@
-# 👋 Nazar Slota(@udholdenhed)
+# 🐳 Nazar Slota(@udholdenhed)
 - 🔭 Looking for fun in technology.
 - 👀 Learning new languages.
 - 🤔 What is the next big thing?
