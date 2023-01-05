@@ -5,6 +5,6 @@
 - 💬 Willing to chat.
 - 👨‍💻 LinkedIn | Twitter | Instagram: **@nazarslota**
 
-![Nazar's GitHub stats](https://github-readme-stats.vercel.app/api?username=nazarslota&theme=transparent&show_icons=true)
+![Nazar's GitHub stats](https://github-readme-stats.vercel.app/api?username=nazarslota&theme=default&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazarslota&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazarslota&theme=default&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
