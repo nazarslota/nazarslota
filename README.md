@@ -5,6 +5,22 @@
 - 💬 Willing to chat.
 - 👨‍💻 LinkedIn | Twitter | Instagram: **@nazarslota**
 
-![Nazar's GitHub stats](https://github-readme-stats.vercel.app/api?username=nazarslota&theme=github_dark&show_icons=true)
+<!-- Light Mode -->
+<div>
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+        <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nazarslota&show_icons=true&theme=dark#gh-light-mode-only" alt="Github Stats"/>
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+        <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nazarslota&layout=compact&theme=dark#gh-light-mode-only" alt="Language Stats"/>
+    </a>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazarslota&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Dark Mode -->
+<div>
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+        <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nazarslota&show_icons=true&theme=dark#gh-dark-mode-only" alt="Github Stats"/>
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+        <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nazarslota&layout=compact&theme=dark#gh-dark-mode-only" alt="Language Stats"/>
+    </a>
+</div>
